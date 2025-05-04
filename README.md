@@ -33,26 +33,22 @@ npm start
 > Do the same thing in both the main and example folders.
 
 ## Mobile View
-<p align="center">
-  <table>
+<table align="center">
     <tr>
-      <td style="border: 1px solid #eee; padding: 4px;">
+      <td style="border: 1px solid #eee; padding: 4px; text-align: center;">
         <img src="assets/mobile-example.gif" width="350px" alt="Demo" />
       </td>
     </tr>
   </table>
-</p>
 
 ## Desktop View
-<p align="center">
-  <table>
+<table align="center">
     <tr>
-      <td style="border: 1px solid #eee; padding: 4px;">
-        <img src="assets/desktop-example.gif" width="350px" alt="Demo" />
+      <td style="border: 1px solid #eee; padding: 4px; text-align: center;">
+        <img src="assets/desktop-example.gif" width="700px" alt="Demo" />
       </td>
     </tr>
   </table>
-</p>
 
 ## ⚙️ Props
 
