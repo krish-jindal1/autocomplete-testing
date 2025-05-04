@@ -34,12 +34,24 @@ npm start
 
 ## Mobile View
 <p align="center">
-<img src="assets/mobile-example.gif" width="350px" alt="Demo" />
+  <table>
+    <tr>
+      <td style="border: 1px solid #eee; padding: 4px;">
+        <img src="assets/mobile-example.gif" width="350px" alt="Demo" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ## Desktop View
 <p align="center">
-<img src="assets/desktop-example.gif" width="80%" alt="Demo" />
+  <table>
+    <tr>
+      <td style="border: 1px solid #eee; padding: 4px;">
+        <img src="assets/desktop-example.gif" width="350px" alt="Demo" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ## ⚙️ Props

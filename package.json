@@ -1,6 +1,6 @@
 {
     "name": "autocomplete-testing",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": false,
     "main": "dist/index.umd.js",
     "module": "dist/index.modern.js",
@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/krish-jindal1/autocomplete-testing.git"
+        "url": "git+https://github.com/krish-jindal1/autocomplete-testing.git"
     },
     "author": "Krish",
     "license": "ISC",
@@ -45,7 +45,6 @@
         "rollup-plugin-peer-deps-external": "^2.2.4",
         "rollup-plugin-styles": "^4.0.0",
         "source-map": "^0.7.4"
-      
     },
     "peerDependencies": {
         "@mui/icons-material": ">=5.0.0 <7.0.0",
@@ -59,7 +58,14 @@
         "@material-ui/lab": "^4.0.0-alpha.47"
     },
     "files": [
-    "dist",
-    "assets"
-  ]
+        "dist",
+        "assets"
+    ],
+    "keywords": [
+        "autocomplete"
+    ],
+    "bugs": {
+        "url": "https://github.com/krish-jindal1/autocomplete-testing/issues"
+    },
+    "homepage": "https://github.com/krish-jindal1/autocomplete-testing#readme"
 }
